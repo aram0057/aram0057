@@ -12,7 +12,6 @@ India // Singapore // Melbourne (current)
 Have a look at my most recent project www.greenmelb.com  Username: ta12, password ta12 (built using react and Django with AI features)
 
 
-
 ## Skills
 
 | Languages             | Frameworks                     | Databases                      | Tools & Technologies                               | Methodologies                                  |
