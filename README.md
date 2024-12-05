@@ -1,4 +1,4 @@
-👋 Hi, I’m @aram0057  // Abbi Kamak.
+👋 Hi, I’m @aram0057  // Abbishek Kamak.
 - 👀 I’m interested in UI/UX design, web development, and machine learning projects. I'm passionate about building interactive, user-friendly interfaces and integrating AI to enhance functionality.
 - I have been working in the energy industry vfor the past 2 years
 - 🌱 I’m currently learning advanced machine learning techniques, React with Vite, and Flask for AI-powered applications.  
