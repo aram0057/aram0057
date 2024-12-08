@@ -9,7 +9,7 @@
 
 India // Singapore // Melbourne (current)
 
-👀 LOoking 
+👀 LOoking to start my journey in AR/VR design interfaces and frontend specialization 
 Have a look at my most recent project www.greenmelb.com   Username: ta12, password ta12 (built using react and Django with AI features)
 
 
