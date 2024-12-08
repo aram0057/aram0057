@@ -3,7 +3,7 @@
 - I have been working in the energy industry vfor the past 2 years
 - 🌱 I’m currently learning advanced machine learning techniques, React with Vite, and Flask for AI-powered applications.  
 - 💞️ I’m looking to collaborate on web and mobile app projects, particularly those focused on sustainability, waste management, and predictive analytics.  
-- 📫 How to reach me: You can email me at abbishek_kamak@outlook.com or connect with me on LinkedIn  (https://www.linkedin.com/in/abbishekkamak )
+- 📫 How to reach me: You can email me at abbishek_kamak@outlook.com or connect with me on LinkedIn  (https://www.linkedin.com/in/abbishekkamak)
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m a Freemason
 
