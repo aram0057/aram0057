@@ -7,10 +7,10 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m a Freemason
 
-India // Singapore //Melbourne (current)
+India // Singapore // Melbourne (current)
 
 👀 LOoking to start my journey in AR/VR design interfaces and frontend specialization. More details coming soon... 
-Have a look at my most recent project www.greenmelb.com   Username: ta12, password ta12 (built using react and Django with AI features)
+Have a look at my most recent project www.greenmelb.com   Username: ta12, password ta12 (built using react and Django with AI features)  I love Javascript!
 
 
 ## Skills
