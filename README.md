@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on web and mobile app projects, particularly those focused on sustainability, waste management, and predictive analytics.  
 - 📫 How to reach me: You can email me at abbishek_kamak@outlook.com or connect with me on LinkedIn  (https://www.linkedin.com/in/abbishekkamak).
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I’m a Freemason
+- ⚡ Fun fact: I’m a Freemason.
 
 India // Singapore // Melbourne (current)
 
