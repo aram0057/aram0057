@@ -1,4 +1,4 @@
-👋 Hi, I’m @aram0057  / Abbishek Kamak or you can call me Abbi!    
+👋 Hi, I’m @aram0057  / Abbishek Kamak or you can call me Abbi!     
 - 👀 I’m interested in UI/UX design, web development, and machine learning projects. I'm passionate about building interactive, user-friendly interfaces and integrating AI to enhance functionality
 - I have been working in the energy industry for the past 2 years.
 - 🌱 I’m currently learning advanced machine learning techniques, React with Vite, and Flask for AI-powered applications!  
